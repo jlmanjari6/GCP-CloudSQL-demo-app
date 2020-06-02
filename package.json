@@ -9,17 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jlmanjari6/REST-API-example-.git"
+    "url": "https://github.com/jlmanjari6/CloudSQL-demo-app.git"
   },
   "keywords": [
     "Node.js"
   ],
   "author": "Manjari",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/jlmanjari6/REST-API-example-/issues"
-  },
-  "homepage": "https://github.com/jlmanjari6/REST-API-example-#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
     "dotenv": "^8.2.0",
